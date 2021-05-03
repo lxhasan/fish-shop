@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "735598102856",
+    "project_id": "fish-shop-c34ae",
+    "storage_bucket": "fish-shop-c34ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735598102856:android:d0d45ac6bca1ef47090b7d",
+        "android_client_info": {
+          "package_name": "com.example.fishshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735598102856-5r3g38caqdr4mgkcdec4n7r7b48etebp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ6XxsWbtfUy9b0Cr8XcI_qBVI3L0VJMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735598102856-5r3g38caqdr4mgkcdec4n7r7b48etebp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

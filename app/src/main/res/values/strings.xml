@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Fish shop</string>
+    <string name="hader_text">Fish shop inventory</string>
+    <string name="option1">Sell Table</string>
+    <string name="option2">Paikar Table</string>
+    <string name="option3">mohajon Table</string>
+    <string name="option4">Due Table</string>
+    <string name="option5">Total cash account</string>
+    <string name="option6">Dhadhon khatha</string>
+
+</resources>
